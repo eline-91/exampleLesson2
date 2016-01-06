@@ -1,5 +1,5 @@
-# Name
-# Date
+# Eline van Elburg
+# 6th of January, 2016
 library(raster)
 
 source('R/ageCalculator.R')
